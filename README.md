@@ -1,2 +1,2 @@
 # Dinky-Messages-securing-script
-Made a small automation script that basically makes you put in a password before you can open your apple Messages. 
+Made a small dinky automator script that basically makes you put in a password before you can open your Messages on your mac. 
